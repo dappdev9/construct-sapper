@@ -1,5 +1,5 @@
 <style>
-	h1, figure, p {
+	h1, p {
 		text-align: center;
 		margin: 0 auto;
 	}
@@ -9,16 +9,6 @@
 		text-transform: uppercase;
 		font-weight: 700;
 		margin: 0 0 0.5em 0;
-	}
-
-	figure {
-		margin: 0 0 1em 0;
-	}
-
-	img {
-		width: 100%;
-		max-width: 400px;
-		margin: 0 0 1em 0;
 	}
 
 	p {
@@ -38,9 +28,6 @@
 
 <h1>Great success!</h1>
 
-<figure>
-	<img alt='Borat' src='great-success.png'>
-	<figcaption>HIGH FIVE!</figcaption>
-</figure>
+<a href="/api/tet">api tet</a>
 
 <p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
